@@ -26,7 +26,7 @@ def all_winter_holiday_supplies(holiday_hash)
 end
 
 def all_supplies_in_holidays(holiday_hash)
-  holidays_hash each do |holiday
+  holidays_hash each do |season, holiday|
 
 end
 
